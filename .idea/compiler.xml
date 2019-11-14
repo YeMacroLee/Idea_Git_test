@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sz_itheima_javaee77period04_git" target="1.8" />
+      <module name="sz_itheima_javaee77period04_git" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
